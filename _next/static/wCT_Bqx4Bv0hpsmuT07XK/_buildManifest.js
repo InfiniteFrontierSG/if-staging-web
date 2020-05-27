@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/":[a,b],"/index":[a,b],"/nlevel-calculator":[a,"static\u002Fcss\u002Facf4e6da848d3827ffd3.css"]}}("static\u002Fchunks\u002Ffe85af03ac1b721acbc0f2528c6bc76d7bc4dfcb.5d3c0e0279f0d42270d9.js","static\u002Fcss\u002F657d6cdacd9389054c51.css"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
