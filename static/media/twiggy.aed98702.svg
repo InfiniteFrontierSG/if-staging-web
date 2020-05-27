@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 872.937 188.009">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+        stroke-width: 6.99px;
+      }
+
+      .cls-2 {
+        filter: url(#Shape_1_copy_2);
+      }
+    </style>
+    <filter id="Shape_1_copy_2" x="0" y="0" width="872.937" height="188.009" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-color="#14479a" flood-opacity="0.459"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Shape_1_copy_2-2" data-name="Shape 1 copy 2" class="cls-1" d="M2399,1343.123s-165.855,78.52-212.731,18.759c-92.605-118.055-150.412,48.547-228.722-32.219-26.787-27.63-91.458,48.232-151.794,62.786-47.458,11.449-171.752-44.8-171.752-44.8" transform="translate(-1580.06 -1281.99)"/>
+  </g>
+</svg>
