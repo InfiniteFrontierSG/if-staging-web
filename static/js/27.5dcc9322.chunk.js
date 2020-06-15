@@ -1,0 +1,2 @@
+(this.webpackJsonpinfinite_frontier_studios=this.webpackJsonpinfinite_frontier_studios||[]).push([[27],{807:function(t,e,i){"use strict";i.r(e);var n=i(0),r=i.n(n),o=i(368),a=function(){return r.a.createElement(o.FacebookProvider,{appId:"794858464283675",chatSupport:!0},r.a.createElement(o.CustomChat,{pageId:"243435989617930",minimized:!0}))};i.d(e,"default",(function(){return a}))}}]);
+//# sourceMappingURL=27.5dcc9322.chunk.js.map
