@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.268 35.255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #83d8a8;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #83d8a8;
+        stroke-width: 2.51px;
+      }
+    </style>
+  </defs>
+  <g id="Group_39" data-name="Group 39" transform="translate(-581.732 -3511)">
+    <path id="Shape_11" data-name="Shape 11" class="cls-1" d="M625,3522h11l-5.5-11Z"/>
+    <path id="Shape_10" data-name="Shape 10" class="cls-2" d="M583,3523s-.784,21.536,23,22c22.088,0,23-23,23-23"/>
+  </g>
+</svg>

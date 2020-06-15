@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 712.213 931.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.11;
+      }
+
+      .cls-3 {
+        opacity: 0.102;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.72" x2="0.28" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#89dca8"/>
+      <stop offset="1" stop-color="#4eb7bd"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(428.053 -272.368)">
+    <path id="Shape_3" data-name="Shape 3" class="cls-1" d="M-24.786,380.891S.149,516.661,97.243,569.03,288.686,695.819,283.991,799.339,90.608,880.465,43.748,999.2-69.814,1260.243-135.1,1117.577s-70.62,96.131-116.471-261.321-84.01-357.2-15.819-399.425S-24.786,380.891-24.786,380.891Z"/>
+    <path id="Shape_3_copy_3" data-name="Shape 3 copy 3" class="cls-2" d="M-148.345,407.033s24.936,135.769,122.03,188.14S165.128,721.962,160.433,825.481-32.951,906.608-79.81,1025.342s-113.562,261.044-178.844,118.378-70.62,96.131-116.471-261.321-84.01-357.2-15.819-399.424S-148.345,407.033-148.345,407.033Z"/>
+    <path id="Shape_3_copy_4" data-name="Shape 3 copy 4" class="cls-3" d="M-112.158,272.368s24.936,135.769,122.03,188.14S201.315,587.3,196.62,690.816,3.237,771.942-43.623,890.677s-113.562,261.043-178.844,118.378-70.62,96.132-116.471-261.32-84.01-357.2-15.819-399.425S-112.158,272.368-112.158,272.368Z"/>
+  </g>
+</svg>

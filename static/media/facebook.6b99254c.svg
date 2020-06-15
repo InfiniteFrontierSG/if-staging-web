@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.47 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #367976;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-1379.31 -5435)">
+    <rect id="Op_component_3" data-name="Op component 3" class="cls-1" width="45.47" height="45" rx="22.5" transform="translate(1379.31 5435)"/>
+    <path id="fb" class="cls-2" d="M1404.134,5472.477v-13.265h4.5l.674-5.169h-5.174v-3.3c0-1.5.42-2.517,2.589-2.517h2.767V5443.6a37.578,37.578,0,0,0-4.031-.2c-3.989,0-6.72,2.409-6.72,6.833v3.813h-4.511v5.169h4.511v13.265Z"/>
+  </g>
+</svg>

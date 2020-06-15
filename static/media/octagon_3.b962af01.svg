@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 412.001 490">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f78eb;
+        opacity: 0.129;
+      }
+
+      .cls-2 {
+        filter: url(#Polygon_2_copy_11);
+      }
+
+      .cls-3 {
+        filter: url(#Polygon_2_copy_10);
+      }
+    </style>
+    <filter id="Polygon_2_copy_10" x="36" y="0" width="376.001" height="376" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24.5" result="blur"/>
+      <feFlood flood-color="#0e60bf" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Polygon_2_copy_11" x="0" y="114" width="376.001" height="376" filterUnits="userSpaceOnUse">
+      <feOffset dy="33" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24.5" result="blur-2"/>
+      <feFlood flood-color="#0e60bf" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(207.498 -4195.509)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -207.5, 4195.51)">
+      <path id="Polygon_2_copy_10-2" data-name="Polygon 2 copy 10" class="cls-1" d="M74.6,4443.841a185.947,185.947,0,0,0-61.749,16.546q-29.442,13.621-48.129-12.9a185.928,185.928,0,0,0-45.2-45.2q-26.517-18.687-12.9-48.129a185.924,185.924,0,0,0,16.546-61.749q2.925-32.308,35.233-35.232a185.933,185.933,0,0,0,61.749-16.546q29.442-13.621,48.129,12.9a185.913,185.913,0,0,0,45.2,45.2q26.517,18.688,12.9,48.129a185.933,185.933,0,0,0-16.546,61.75Q106.909,4440.917,74.6,4443.841Z" transform="translate(207.5 -4195.51)"/>
+    </g>
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, -207.5, 4195.51)">
+      <path id="Polygon_2_copy_11-2" data-name="Polygon 2 copy 11" class="cls-1" d="M38.6,4557.842a185.957,185.957,0,0,0-61.749,16.545q-29.442,13.621-48.129-12.9a185.908,185.908,0,0,0-45.2-45.2q-26.517-18.688-12.9-48.129a185.933,185.933,0,0,0,16.546-61.75q2.925-32.308,35.233-35.232a185.923,185.923,0,0,0,61.749-16.546q29.442-13.619,48.129,12.9a185.917,185.917,0,0,0,45.2,45.2q26.517,18.687,12.9,48.128a185.936,185.936,0,0,0-16.546,61.75Q70.909,4554.916,38.6,4557.842Z" transform="translate(207.5 -4195.51)"/>
+    </g>
+  </g>
+</svg>
